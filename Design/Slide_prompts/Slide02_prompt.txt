@@ -1,0 +1,7 @@
+数据页（Slide02）AI 提示词（中文）:
+宣纸纹理底, 右侧淡水墨山脉背景, 左侧保留浅色卡片区用于图表, 角落有细腻工笔花鸟装饰, 整体国风手绘风格, 高清 3840x2160, subtle grain
+
+数据页（Slide02）AI prompt (English):
+Rice-paper texture background, soft ink-wash mountains on the right, left area reserved as light card for charts, delicate gongbi floral corner accents, Chinese traditional hand-painted style, high resolution 3840x2160
+
+文件名建议：Assets/Backgrounds/Slide02_Data_bg.png

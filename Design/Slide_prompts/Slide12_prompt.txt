@@ -1,0 +1,7 @@
+封底/联系方式页（Slide12）AI 提示词（中文）:
+简洁云纹与印章角饰, 留白优雅, 适合放联系人/二维码/Logo, 3840x2160
+
+Prompt (English):
+Minimal cloud motifs and seal corner accents, elegant negative space suitable for contact info/QR code/logo placement, 3840x2160
+
+文件名建议：Assets/Backgrounds/Slide12_Footer_bg.png

@@ -1,0 +1,7 @@
+目标&概述页（Slide03）AI 提示词（中文）:
+古风书院/庭院场景, 手绘淡彩, 书卷与案几元素, 层次丰富但保留中心可读区, 宣纸质感, 3840x2160
+
+Prompt (English):
+Traditional Chinese academy courtyard hand-painted scene, soft colors, scrolls and writing desk elements, layered composition with central readable area, rice-paper texture, 3840x2160
+
+文件名建议：Assets/Backgrounds/Slide03_Overview_bg.png

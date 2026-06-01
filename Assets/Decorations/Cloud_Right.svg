@@ -1,0 +1,10 @@
+<!-- Cloud_Right.svg: mirrored cloud -->
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="240" viewBox="0 0 800 240">
+  <g fill="none" stroke="#2E2B2A" stroke-opacity="0.18" stroke-width="6">
+    <path d="M720 120 C660 40, 500 40, 440 120 C380 200, 220 200, 160 120"/>
+  </g>
+  <g fill="#2E2B2A" opacity="0.06">
+    <ellipse cx="600" cy="120" rx="60" ry="30" />
+    <ellipse cx="460" cy="110" rx="90" ry="40" />
+  </g>
+</svg>

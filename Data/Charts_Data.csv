@@ -1,0 +1,17 @@
+Year,Teams,Awards,Award%
+2019,120,12,10.0
+2020,150,18,12.0
+2021,180,24,13.3
+2022,210,30,14.3
+2023,260,42,16.2
+2024,320,50,15.6
+2025,380,62,16.3
+
+ProjectType,Percentage
+Technology,45
+SocialEntrepreneurship,25
+Design,15
+AgricultureAndRural,10
+Other,5
+
+Notes: This is example/placeholder data. Replace Data/Charts_Data.csv with your real data and open PPTX to update charts.

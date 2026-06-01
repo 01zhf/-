@@ -1,0 +1,9 @@
+封面（Slide01）AI 提示词（中文）:
+16:9, 3840x2160, 国风手绘, 水墨与工笔结合, 层次丰富的山水远景, 近景有淡彩工笔花卉与枝叶, 远山薄雾缭绕, 画面右侧留出可读空白, 金色篆刻印章与云纹点缀, 宣纸纹理, 细腻笔触, 高级雅致, 高清插画, soft lighting, high detail
+
+封面（Slide01）AI prompt (English):
+16:9 3840x2160, Chinese traditional hand-painted style, blend of ink-wash and gongbi, layered mountains in distance with soft mist, foreground delicate colored flowers and branches, reserve readable negative space on the right, decorative gold seal and cloud motifs, rice-paper texture, delicate brush strokes, elegant high-end composition, high resolution illustration
+
+用法说明：把以上文本粘贴进图像生成器（支持负面提示也可添加: "no modern buildings, no text, no logos").
+
+文件名建议：Assets/Backgrounds/Slide01_Cover_bg.png

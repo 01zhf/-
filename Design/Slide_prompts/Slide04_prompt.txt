@@ -1,0 +1,7 @@
+关键观点页（Slide04）AI 提示词（中文）:
+工笔小图标集合（扇子/印章/笔墨/灯笼），配以淡墨底纹，保留卡片区用于三栏卡片式内容，3840x2160
+
+Prompt (English):
+Collection of small gongbi icons (folding fan, seal, brush ink, lantern) with light ink-wash background, reserved card area for three-column content, 3840x2160
+
+文件名建议：Assets/Backgrounds/Slide04_KeyPoints_bg.png

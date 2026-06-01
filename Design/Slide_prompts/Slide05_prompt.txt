@@ -1,0 +1,7 @@
+数据与图表页（Slide05）AI 提示词（中文）:
+宣纸纹理, 右侧水墨山脉, 左侧留可读卡片放折线图, 角饰花鸟, 高雅配色, 3840x2160
+
+Prompt (English):
+Rice-paper texture, ink-wash mountains on the right, left reserved card for line chart, floral corner accents, elegant palette, 3840x2160
+
+文件名建议：Assets/Backgrounds/Slide05_Chart1_bg.png

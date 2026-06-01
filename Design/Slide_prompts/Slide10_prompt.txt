@@ -1,0 +1,7 @@
+商业模式/商业策划页（Slide10）AI 提示词（中文）:
+古风策划图卷轴背景, 纸张折痕与宣纸纹理, 版式适合放流程与要点, 3840x2160
+
+Prompt (English):
+Antique plan scroll background, paper creases and rice-paper texture, layout suitable for flows and key points, 3840x2160
+
+文件名建议：Assets/Backgrounds/Slide10_BM_bg.png

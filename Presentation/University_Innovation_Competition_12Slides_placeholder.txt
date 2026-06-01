@@ -1,0 +1,12 @@
+University_Innovation_Competition_12Slides.pptx — placeholder
+
+说明：
+- 当前提交包含所有设计素材与生成提示，但不包含最终的二进制 PPTX 文件（.pptx）。
+- 原因：在本会话环境下，我无法直接生成高保真二进制 PPTX 文件与高质量 PNG 图像。
+
+下一步我可以为你做的事（请选择）：
+1) 你在本仓库上传由 prompts 生成的 12 张背景 PNG 至 Assets/Backgrounds/，我会在收到图片后把它们合成到可编辑 PPTX 并提交到本分支（自动操作）。
+2) 你授权我使用图像生成 API（请通过安全方式提供），我将代为生成并完成 PPTX，然后提交。  
+3) 你选择我将 PPTX 以 Base64 文本输出在聊天中（不推荐，文本极长）。
+
+若你希望我继续并在本分支创建 PR，请回复：“继续并创建 PR”。

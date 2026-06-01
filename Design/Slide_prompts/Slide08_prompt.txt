@@ -1,0 +1,7 @@
+流程/时间轴页（Slide08）AI 提示词（中文）:
+长卷式山水背景, 淡墨延展作时间轴底纹, 节点用印章式图标, 3840x2160
+
+Prompt (English):
+Long scroll-like landscape background, soft ink-wash extending as timeline base, nodes marked with seal-like icons, 3840x2160
+
+文件名建议：Assets/Backgrounds/Slide08_Timeline_bg.png

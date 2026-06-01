@@ -1,0 +1,7 @@
+数据与图表页（Slide06）AI 提示词（中文）:
+淡宣纸纹理, 居中柱状图卡片区, 背景轻水墨, 金色点缀, 3840x2160
+
+Prompt (English):
+Light rice-paper texture, centered bar chart card area, soft ink-wash background, gold accents, 3840x2160
+
+文件名建议：Assets/Backgrounds/Slide06_Chart2_bg.png

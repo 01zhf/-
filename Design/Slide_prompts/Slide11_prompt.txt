@@ -1,0 +1,7 @@
+结论与建议页（Slide11）AI 提示词（中文）:
+远景山水与近景盛放花朵, 强调未来愿景的画面, 右侧保留文本区, 3840x2160
+
+Prompt (English):
+Distant landscape with foreground blooming flowers, emphasis on future vision, right side reserved for text block, 3840x2160
+
+文件名建议：Assets/Backgrounds/Slide11_Conclusion_bg.png

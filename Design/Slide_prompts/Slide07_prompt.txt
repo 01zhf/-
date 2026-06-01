@@ -1,0 +1,7 @@
+视觉案例/图片集页（Slide07）AI 提示词（中文）:
+花鸟/松石/校园场景小插画集合, 作为图集背景, 保留照片放置区域, 国风手绘, 3840x2160
+
+Prompt (English):
+Collection of small floral, bird, and campus scene illustrations as gallery background, leave photo placement areas, Chinese hand-painted style, 3840x2160
+
+文件名建议：Assets/Backgrounds/Slide07_Gallery_bg.png

@@ -1,0 +1,7 @@
+团队介绍页（Slide09）AI 提示词（中文）:
+斗拱/窗棂/院落元素为背景, 人物照片留白剪影区, 手绘风, 3840x2160
+
+Prompt (English):
+Background featuring dougong, lattice windows, and courtyard elements, reserved silhouette areas for team photos, hand-painted style, 3840x2160
+
+文件名建议：Assets/Backgrounds/Slide09_Team_bg.png
